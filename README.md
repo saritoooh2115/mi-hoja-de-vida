@@ -1,4 +1,3 @@
-markdown
 # Mi hoja de vida
 **Nombre completo:** Sarah Gheily Pinzon Castro
 **Correo electrónico:** saritoooh21@gmail.com
