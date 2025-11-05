@@ -5,8 +5,8 @@ markdown
 ## Formación académica
 - Bachiller académico
 - Lenguajes estudiados: inglés (C1) y francés (A2)
-- Técnico en atención al cliente 
+- Técnico integral al cliente
+- Complementaria virtual en marketing digital 
 - Estudiante de Ingeniería de Sistemas en UNIMINUTO
 ## Habilidades
-- Conocimientos básicos en programación
-- Uso de herramientas colaborativas como GitHub
+- 
